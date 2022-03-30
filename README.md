@@ -2,7 +2,7 @@
 </br>
 
 - Sou estudante de Análise de Desenvolvimento de Sistemas na [ Unopar ](https://www.unopar.com)
-- Atualmente estou estudante Desenvolvimento Front-end pela [< Laboratoria >](https://www.laboratoria.la/br)
+- Também sou estudante de  Desenvolvimento Front-end pela [< Laboratoria >](https://www.laboratoria.la/br)
 
 
 </br>

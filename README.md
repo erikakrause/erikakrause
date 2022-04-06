@@ -1,8 +1,9 @@
 ### Olá, eu sou a Érika! 👋
 </br>
-
+- Secretária Executiva em transição de carreira.
 - Sou estudante de Análise de Desenvolvimento de Sistemas na [ Unopar ](https://www.unopar.com)
-- Também sou estudante de  Desenvolvimento Front-end pela [< Laboratoria >](https://www.laboratoria.la/br)
+- Também sou estudante de  Desenvolvimento Front-End pela [< Laboratoria >](https://www.laboratoria.la/br)
+- Estou aprenendo HTML5, CSS, JavaScript e Firebase.
 
 
 </br>

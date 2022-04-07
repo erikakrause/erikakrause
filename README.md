@@ -2,7 +2,7 @@
 
 - Secretária Executiva em transição de carreira.
 - Sou estudante de Análise de Desenvolvimento de Sistemas na [ Unopar ](https://www.unopar.com).
-- Também sou estudante de  Desenvolvimento Front-End pela [< Laboratoria >](https://www.laboratoria.la/br).
+- Aluna da 7ª geração do Bootcamp de Desenvolvimento Front-End da [< Laboratoria >](https://www.laboratoria.la/br)  .
 - Estou aprenendo HTML5, CSS, JavaScript e Firebase.
 
 ---

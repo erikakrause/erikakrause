@@ -1,9 +1,7 @@
 ### Olá, eu sou a Érika! 👋
 
-- Secretária Executiva em transição de carreira.
 - Sou estudante de Análise de Desenvolvimento de Sistemas na [ Unopar ](https://www.unopar.com).
-- Aluna da 7ª geração do Bootcamp de Desenvolvimento Front-End da [< Laboratoria >](https://www.laboratoria.la/br).
-- Estou aprendendo HTML5, CSS, JavaScript, Firebase e React.
+- Graduada a 7ª geração do Bootcamp de Desenvolvimento Front-End da [< Laboratoria >](https://www.laboratoria.la/br).
 
 -----
 ##

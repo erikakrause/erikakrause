@@ -1,7 +1,7 @@
 ### Olá, eu sou a Érika! 👋
 
 - Sou estudante de Análise de Desenvolvimento de Sistemas na [ Unopar ](https://www.unopar.com).
-- Graduada a 7ª geração do Bootcamp de Desenvolvimento Front-End da [< Laboratoria >](https://www.laboratoria.la/br).
+- Graduada da 7ª geração do Bootcamp de Desenvolvimento Front-End da [< Laboratoria >](https://www.laboratoria.la/br).
 
 -----
 ##

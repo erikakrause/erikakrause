@@ -4,8 +4,6 @@
 - Analista de Testes Jr
 - Graduada na 7ª geração do Bootcamp de Desenvolvimento Front-End da [< Laboratoria >](https://www.laboratoria.la/br)
 
-Atualmente estudando **Java** e **Appium**
-
 -----
 <h3 align="center">Linguagens e Ferramentas</h3>  
 <div align="center" style="display: inline_block"><br>

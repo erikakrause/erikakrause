@@ -1,12 +1,13 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="img/coding.png">
 
+
 <h1>
-   <span> Érika Moreno</span>
+   Érika Moreno
 </h1>
 
 <p align="justify">Analista de Testes, pós graduanda em Engenharia de Software. Participei da turma da 7ª geração do  Bootcamp da Laboratoria Brasil e tive contato com HTML, CSS e JavaScript e foi através do Hackaton de Empregabilidade que fui contrata para trabalhar como QA. Atualmente trabalho como QA Engineer.
 <br>
-.</p>
+</p>
 
 ### Entre em contato comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=&color:FFF)](https://www.linkedin.com/in/erika-gkmoreno/)

@@ -1,28 +1,16 @@
-### Olá, eu sou a Érika! 👋
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="img/coding.png">
 
-- Formanda em Análise de Desenvolvimento de Sistemas na [ Unopar ](https://www.unopar.com)
-- Analista de Testes| Quality Assurance
-- Graduada na 7ª geração do Bootcamp de Desenvolvimento Front-End da [< Laboratoria >](https://www.laboratoria.la/br)
+<h1>
+    Érika Moreno
+</h1>
 
------
-<h3 align="center">Linguagens e Ferramentas</h3>  
-<div align="center" style="display: inline_block"><br>
-  <img title="HTML" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img title="CSS"align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="Javscript" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img title="VScode" align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img title="Figma" align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img title="Figma" align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</div>
+<p align="justify">Analista de Testes, pós graduanda em Engenharia de Software. Participei da turma da 7ª geração do  Bootcamp da Laboratoria Brasil e tive contato com HTML, CSS e JavaScript e foi através do Hackaton de Empregabilidade que fui contrata para trabalhar como QA. Atualmente trabalho como QA Engineer.
+<br>
+.</p>
 
----
-<div align="center">
-  <a href="https://github.com/erikakrause">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikakrause&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+### Entre em contato comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=&color:FFF)](https://www.linkedin.com/in/erika-gkmoreno/)
 
-----
-<h3 align="center">Entre em contato comigo:</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/leticiaantunes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
+
+### GitHub Stats
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erikakrause&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)

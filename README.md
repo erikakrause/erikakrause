@@ -5,7 +5,8 @@
    Érika Moreno
 </h1>
 
-<p align="justify">Analista de Testes, pós graduanda em Engenharia de Software. Participei da turma da 7ª geração do  Bootcamp da Laboratoria Brasil e tive contato com HTML, CSS e JavaScript e foi através do Hackaton de Empregabilidade que fui contrata para trabalhar como QA. Atualmente trabalho como QA Engineer.
+<p align="justify">Analista de Testes de Software e pós graduada em Engenharia de Software. 
+   Sou da 7ª geração do Bootcamp da Laboratoria Brasil, onde desenvolvi habilidades em HTML, CSS e JavaScript. Fui contratada como QA após participar do Hackaton de Empregabilidade e atualmente atuo como QA Engineer.
 <br>
 </p>
 
